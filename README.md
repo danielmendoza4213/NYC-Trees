@@ -1,6 +1,6 @@
 ### NYC-Trees
 
-<img src="assets/tree.gif" alt="tree" width="450"/>
+<img src="assets/tree.gif" alt="tree" width="650"/>
 
 #### Description:
 
@@ -9,6 +9,7 @@ the following link: https://www.kaggle.com/new-york-city/ny-2015-street-tree-cen
 
 #### Installation:
 
+Mehtod is inside the notebook **tree.ipynb**
 It only requires Pandas
 
 #### Usage:
